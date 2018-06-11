@@ -216,7 +216,7 @@ html.i-amphtml-ios-embed.i-amphtml-ios-overscroll > #i-amphtml-wrapper {
 }
 
 .i-amphtml-layout-size-defined {
-  overflow: hidden !important;
+  overflow: visible !important;
 }
 
 .i-amphtml-layout-awaiting-size {
